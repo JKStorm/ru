@@ -46,3 +46,6 @@ This app was designed using the microservices technique, part of the larger serv
 1) Add return type declarations
 1) Improve the memory performance of App\Parser\Submit by using Xpath for querying
 1) Add memcache to cache requests to the api endpoint
+1) Persist assists (`App\Model\Assist`)
+1) Present player name in addition to their unique reference
+1) Make routing more modular, with support for multiple sports and additional filtering
